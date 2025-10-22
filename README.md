@@ -109,7 +109,6 @@ Bridging cryptocurrency trading with AI applications through MCP compatibility.
 I'm always interested in collaborating on innovative projects or discussing technology and economics. Feel free to reach out!
 
 - 📧 Email: [jmlenhard@wm.edu](mailto:jmlenhard@wm.edu)
-- 💼 LinkedIn: [linkedin.com/in/jameslenhard](https://www.linkedin.com/in/jameslenhard/)
 - 🐙 GitHub: [@jameslovespancakes](https://github.com/jameslovespancakes)
 
 ---
