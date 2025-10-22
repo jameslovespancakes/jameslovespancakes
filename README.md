@@ -56,6 +56,22 @@ Bridging cryptocurrency trading with AI applications through MCP compatibility.
 
 ---
 
+## 🌟 Open Source Contributions
+
+### TensorFlow
+Contributing to one of the world's most popular machine learning frameworks.
+
+**Pull Requests:**
+- [#102674](https://github.com/tensorflow/tensorflow/pull/102674) - Fix TensorFlow Lite build error with Android NDK
+  - Added platform-specific guards to resolve compilation errors on Windows and Android NDK configurations
+  - Status: Approved, ready to merge
+
+- [#102663](https://github.com/tensorflow/tensorflow/pull/102663) - Fix TypeError when serializing `tf.nn.log_softmax` activation
+  - Resolved Keras model deserialization issue for `log_softmax` activation functions
+  - Status: Approved, labeled "ready to pull"
+
+---
+
 ## 🛠️ Technical Skills
 
 **Languages:**
