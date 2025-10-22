@@ -4,7 +4,7 @@
 
 **Computer Science & Economics @ William & Mary '29**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameslenhard/)
+
 [![GitHub followers](https://img.shields.io/github/followers/jameslovespancakes?style=for-the-badge&logo=github)](https://github.com/jameslovespancakes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmlenhard@wm.edu)
 
