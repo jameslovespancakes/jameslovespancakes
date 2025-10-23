@@ -4,7 +4,6 @@
 
 **Computer Science & Economics @ William & Mary '29**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameslenhard/)
 [![GitHub followers](https://img.shields.io/github/followers/jameslovespancakes?style=for-the-badge&logo=github)](https://github.com/jameslovespancakes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmlenhard@wm.edu)
 
@@ -64,11 +63,16 @@ Contributing to one of the world's most popular machine learning frameworks.
 **Pull Requests:**
 - [#102674](https://github.com/tensorflow/tensorflow/pull/102674) - Fix TensorFlow Lite build error with Android NDK
   - Added platform-specific guards to resolve compilation errors on Windows and Android NDK configurations
-  - Status: Approved, ready to merge
 
 - [#102663](https://github.com/tensorflow/tensorflow/pull/102663) - Fix TypeError when serializing `tf.nn.log_softmax` activation
   - Resolved Keras model deserialization issue for `log_softmax` activation functions
-  - Status: Approved, labeled "ready to pull"
+
+### Sanic
+Contributing to the high-performance Python web framework.
+
+**Pull Requests:**
+- [#3086](https://github.com/sanic-org/sanic/pull/3086) - Fix race condition in worker restart causing spawn failure
+  - Resolved critical race condition that prevented workers from restarting properly
 
 ---
 
@@ -125,7 +129,6 @@ Contributing to one of the world's most popular machine learning frameworks.
 I'm always interested in collaborating on innovative projects or discussing technology and economics. Feel free to reach out!
 
 - 📧 Email: [jmlenhard@wm.edu](mailto:jmlenhard@wm.edu)
-- 💼 LinkedIn: [linkedin.com/in/jameslenhard](https://www.linkedin.com/in/jameslenhard/)
 - 🐙 GitHub: [@jameslovespancakes](https://github.com/jameslovespancakes)
 
 ---
