@@ -36,6 +36,8 @@ An innovative platform that empowers teachers to create custom HTML5 educational
 
 A collection of specialized MCP servers that extend AI capabilities by connecting large language models with external data sources and services. Each server implements the Model Context Protocol to enable secure, standardized interactions between AI applications and real-world systems.
 
+**All servers are published as PyPI modules** — [View my PyPI profile](https://pypi.org/user/idk_james/)
+
 #### [MokuPDF](https://github.com/jameslovespancakes/mokupdf)
 **Intelligent PDF Processing Server**
 
