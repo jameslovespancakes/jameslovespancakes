@@ -31,27 +31,49 @@ An innovative platform that empowers teachers to create custom HTML5 educational
 
 ---
 
-### [MokuPDF](https://github.com/jameslovespancakes/mokupdf) ⭐
-> Intelligent PDF Processing Server for AI Applications
+### Model Context Protocol (MCP) Servers ⭐
+> Building the Future of AI Context Integration
 
-A powerful MCP-compatible server that enables AI tools like Claude Desktop to read and process PDF files with advanced capabilities.
+A collection of specialized MCP servers that extend AI capabilities by connecting large language models with external data sources and services. Each server implements the Model Context Protocol to enable secure, standardized interactions between AI applications and real-world systems.
+
+#### [MokuPDF](https://github.com/jameslovespancakes/mokupdf)
+**Intelligent PDF Processing Server**
+
+A powerful server that enables AI tools like Claude Desktop to read and process PDF files with advanced capabilities. Handles both digital and scanned documents through OCR technology while providing intelligent search capabilities.
 
 **Key Features:**
-- Model Context Protocol (MCP) compatible
-- Advanced OCR for scanned documents
+- Advanced OCR for scanned documents using Tesseract
 - Intelligent fuzzy search across directories
-- Embedded image extraction
+- Embedded image extraction from PDFs
+- JSON-RPC communication protocol
 
 **Tech Stack:** `Python 3.8+` `Tesseract OCR` `JSON-RPC` `MCP`
 
----
+#### [Memory-MCP (Hippocampus)](https://github.com/jameslovespancakes/Memory-MCP)
+**Persistent Memory Server for LLMs**
 
-### [BinanceUS-MCP](https://github.com/jameslovespancakes/BinanceUS-mcp) ⭐
-> Binance US Integration for Model Context Protocol
+A brain-inspired memory system that enables AI assistants to remember information across conversation sessions through semantic storage and retrieval. Features biological memory processes including consolidation and forgetting mechanisms.
 
-Bridging cryptocurrency trading with AI applications through MCP compatibility.
+**Key Features:**
+- Semantic similarity search using FAISS vector indexing
+- Memory consolidation and forgetting algorithms
+- Privacy-focused local storage with no external API costs
+- Rate limiting and security measures
 
-**Tech Stack:** `Python`
+**Tech Stack:** `Python 3.9+` `Sentence Transformers` `FAISS` `JSON`
+
+#### [BinanceUS-MCP](https://github.com/jameslovespancakes/BinanceUS-mcp)
+**Cryptocurrency Trading Integration**
+
+Bridges cryptocurrency trading with AI applications through MCP compatibility, enabling AI assistants to interact with the Binance US trading platform for market data and trading operations.
+
+**Key Features:**
+- Real-time market data access
+- Trading operation integration
+- Secure API authentication
+- MCP-compliant architecture
+
+**Tech Stack:** `Python` `Binance US API` `MCP`
 
 ---
 
