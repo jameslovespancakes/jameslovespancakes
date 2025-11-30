@@ -13,11 +13,28 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Economics major at William & Mary, passionate about building AI-powered tools that solve real-world problems. My work focuses on creating accessible technology that bridges the gap between complex systems and everyday users—from educators to developers.
+I'm a Computer Science and Economics major at William & Mary with a focus on AI/ML development. I'm passionate about building intelligent systems that solve real-world problems, from healthcare diagnostics to educational technology. I also dabble in game development, combining my technical skills with creative design.
 
 ## 🚀 Featured Projects
 
-### [Astraea](https://github.com/jameslovespancakes/Astraea) ⭐
+### 🤖 AI/ML Projects
+
+#### [DermaAI](https://github.com/jameslovespancakes/technica-2025) ⭐
+> AI-Powered Skin Condition Classification — *Technica 2025 Hackathon*
+
+A full-stack web application that enables users to upload images of skin conditions and receive automated classification results along with detailed AI-generated explanations.
+
+**Key Features:**
+- SwinV2 Tiny transformer model trained on 216 skin condition categories
+- Test Time Augmentation for enhanced accuracy and reliability
+- AI-powered explanations via Gemini 2.0 Flash API
+- Interactive chat for follow-up questions with conversation context
+
+**Tech Stack:** `Flask` `PyTorch` `React 18` `Vite` `TailwindCSS` `Three.js` `Gemini API`
+
+---
+
+#### [Astraea](https://github.com/jameslovespancakes/Astraea) ⭐
 > AI-Powered Educational Game Generator
 
 An innovative platform that empowers teachers to create custom HTML5 educational games through natural language prompts—no coding required.
@@ -31,7 +48,7 @@ An innovative platform that empowers teachers to create custom HTML5 educational
 
 ---
 
-### Model Context Protocol (MCP) Servers ⭐
+### 🔌 Model Context Protocol (MCP) Servers
 > Building the Future of AI Context Integration
 
 A collection of specialized MCP servers that extend AI capabilities by connecting large language models with external data sources and services. Each server implements the Model Context Protocol to enable secure, standardized interactions between AI applications and real-world systems.
@@ -124,6 +141,18 @@ Contributing to the high-performance Python web framework.
 - Educational Technology
 - PDF Processing & OCR
 - Real-time Applications
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameslovespancakes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameslovespancakes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
 
 ---
 
