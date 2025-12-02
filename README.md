@@ -115,6 +115,9 @@ Contributing to the high-performance Python web framework.
 - [#3086](https://github.com/sanic-org/sanic/pull/3086) - Fix race condition in worker restart causing spawn failure
   - Resolved critical race condition that prevented workers from restarting properly
 
+- [#3085](https://github.com/sanic-org/sanic/pull/3085) - Fix AttributeError in `close_if_idle()` when `_http` is not initialized
+  - Fixed server shutdown crash by using safe property access for uninitialized connections
+
 ---
 
 ## 🛠️ Technical Skills
