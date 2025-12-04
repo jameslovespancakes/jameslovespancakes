@@ -167,7 +167,7 @@ I'm always interested in collaborating on innovative projects or discussing tech
 
 <div align="center">
 
-*"Building technology that empowers people to do more."*
+*"Building technology that empowers people to do more!"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jameslovespancakes&color=blueviolet&style=flat)
 
