@@ -4,9 +4,6 @@
 
 **Computer Science & Economics @ William & Mary '29**
 
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmlenhard@wm.edu)
-
 </div>
 
 ---
