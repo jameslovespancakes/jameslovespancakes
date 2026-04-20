@@ -12,7 +12,7 @@
 
 ## About
 
-I am a Computer Science and Economics student at William & Mary with a strong interest in algorithmic trading, machine learning, and quantitative research. I enjoy working at the intersection of markets and modeling, applying techniques from statistical learning, time-series analysis, and systematic strategy design to real financial data. Beyond quantitative work, I build practical ML systems across domains such as healthcare diagnostics, educational technology, and developer tooling.
+Product-minded engineer who leads cross-functional teams, roadmaps with stakeholders, and ships user-facing products—while staying hands-on in the codebase when it counts. I am a Computer Science and Economics student at William & Mary with a strong interest in algorithmic trading, machine learning, and quantitative research, and I enjoy working at the intersection of markets and modeling. Beyond quantitative work, I build practical ML and full-stack systems across domains including healthcare diagnostics, educational tooling, and developer infrastructure.
 
 ## Featured Projects
 
@@ -115,20 +115,13 @@ Contributions to the high-performance Python web framework.
 
 ---
 
-## Technical Skills
+## Skills
 
-**Languages:** Python, JavaScript, TypeScript
+**Product:** Roadmapping, User Stories, Agile/Scrum, A/B Testing, Problem Solving
 
-**Frameworks and Libraries:** Next.js, Flask, PyTorch, React
+**Analytics:** PyTorch, TensorFlow, LightGBM, Pandas, NumPy, Data Analysis, Metrics Definition, Dashboarding
 
-**Tools and Platforms:** Git, Cloudflare, Gemini API
-
-**Areas of Focus**
-- AI/ML integration and the Model Context Protocol
-- Full-stack web development
-- Educational technology
-- PDF processing and OCR
-- Real-time applications
+**Technical:** Python, JavaScript, TypeScript, SQL, Docker, Git, GitHub Actions, GCP, AWS, Figma, Excel
 
 ---
 
