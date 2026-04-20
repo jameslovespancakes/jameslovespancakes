@@ -33,6 +33,25 @@ A full-stack web application that classifies user-submitted images of skin condi
 
 ---
 
+### Game Development
+
+#### [KAIDO: Way of the Sea](https://github.com/jameslovespancakes/GitHub-Game-Off-2025)
+*2D Narrative Adventure — GitHub Game Off 2025*
+
+A story-driven adventure game following Kaido's journey across treacherous seas to rescue his family from the storm deities, blending sidescrolling action with top-down exploration and Japanese-inspired mythology.
+
+**Key Features**
+- Hybrid gameplay alternating between sidescrolling platformer combat and top-down overworld exploration
+- Boss encounters against twin storm deities in the Celestial Gate arena
+- Sea voyage sequences with obstacle dodging and mythical creature encounters
+- Inventory, hotbar, and shop systems with branching dialogue
+- Day/night cycle that modulates the player's water-based abilities
+- Original soundtrack and hand-crafted pixel art
+
+**Tech Stack:** Godot 4.5, GDScript
+
+---
+
 ### Model Context Protocol (MCP) Servers
 
 A collection of specialized MCP servers that extend language model capabilities by connecting them to external data sources and services. Each server implements the Model Context Protocol to support secure, standardized interactions between AI applications and real-world systems.
