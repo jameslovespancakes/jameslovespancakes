@@ -33,20 +33,6 @@ A full-stack web application that classifies user-submitted images of skin condi
 
 ---
 
-#### [Astraea](https://github.com/jameslovespancakes/Astraea)
-*AI-Powered Educational Game Generator*
-
-A platform that enables educators to create custom HTML5 educational games from natural language prompts, removing the need for programming experience.
-
-**Key Features**
-- Multi-model AI pipeline (Falcon-7B, BLIP-2, Gemini 1.5)
-- Real-time leaderboards and teacher dashboards
-- Instant game preview with integrated student progress tracking
-
-**Tech Stack:** Flask, PyTorch, Next.js 14, TailwindCSS, Phaser 3, Socket.io
-
----
-
 ### Model Context Protocol (MCP) Servers
 
 A collection of specialized MCP servers that extend language model capabilities by connecting them to external data sources and services. Each server implements the Model Context Protocol to support secure, standardized interactions between AI applications and real-world systems.
