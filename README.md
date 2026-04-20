@@ -125,15 +125,6 @@ Contributions to the high-performance Python web framework.
 
 ---
 
-## Current Focus
-
-- Building AI-powered tools for productivity and education
-- Developing Model Context Protocol integrations
-- Designing full-stack applications with modern frameworks
-- Pursuing interdisciplinary work in computer science and economics
-
----
-
 ## Contact
 
 I welcome opportunities to collaborate on technical projects or discuss work at the intersection of technology and economics.
