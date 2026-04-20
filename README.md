@@ -1,166 +1,144 @@
 <div align="center">
 
-# 💫 James Lenhard
+# James Lenhard
 
-**Computer Science & Economics @ William & Mary '29**
+**Computer Science & Economics, William & Mary Class of 2029**
 
-[![GitHub followers](https://img.shields.io/github/followers/jameslovespancakes?style=for-the-badge&logo=github)](https://github.com/jameslovespancakes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmlenhard@wm.edu)
+[GitHub](https://github.com/jameslovespancakes) · [jmlenhard@wm.edu](mailto:jmlenhard@wm.edu)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Computer Science and Economics major at William & Mary, passionate about building AI-powered tools that solve real-world problems. My work focuses on creating accessible technology that bridges the gap between complex systems and everyday users—from educators to developers.
+I am a Computer Science and Economics student at William & Mary with a strong interest in algorithmic trading, machine learning, and quantitative research. I enjoy working at the intersection of markets and modeling, applying techniques from statistical learning, time-series analysis, and systematic strategy design to real financial data. Beyond quantitative work, I build practical ML systems across domains such as healthcare diagnostics, educational technology, and developer tooling.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [Astraea](https://github.com/jameslovespancakes/Astraea) ⭐
-> AI-Powered Educational Game Generator
+### AI and Machine Learning
 
-An innovative platform that empowers teachers to create custom HTML5 educational games through natural language prompts—no coding required.
+#### [DermaAI](https://github.com/jameslovespancakes/technica-2025)
+*AI-Powered Skin Condition Classification — Technica 2025 Hackathon*
 
-**Key Features:**
-- Multi-model AI pipeline (Falcon-7B, BLIP-2, Gemini-1.5)
-- Real-time leaderboards & teacher dashboards
-- Instant game preview with student progress tracking
+A full-stack web application that classifies user-submitted images of skin conditions and generates detailed, AI-driven explanations of the results.
 
-**Tech Stack:** `Flask` `PyTorch` `Next.js 14` `TailwindCSS` `Phaser 3` `Socket.io`
+**Key Features**
+- SwinV2 Tiny transformer model trained on 216 skin condition categories
+- Test-time augmentation for improved accuracy and reliability
+- Automated explanations via the Gemini 2.0 Flash API
+- Interactive follow-up chat with persistent conversation context
+
+**Tech Stack:** Flask, PyTorch, React 18, Vite, TailwindCSS, Three.js, Gemini API
 
 ---
 
-### Model Context Protocol (MCP) Servers ⭐
-> Building the Future of AI Context Integration
+#### [Astraea](https://github.com/jameslovespancakes/Astraea)
+*AI-Powered Educational Game Generator*
 
-A collection of specialized MCP servers that extend AI capabilities by connecting large language models with external data sources and services. Each server implements the Model Context Protocol to enable secure, standardized interactions between AI applications and real-world systems.
+A platform that enables educators to create custom HTML5 educational games from natural language prompts, removing the need for programming experience.
 
-**All servers are published as PyPI modules** — [View my PyPI profile](https://pypi.org/user/idk_james/)
+**Key Features**
+- Multi-model AI pipeline (Falcon-7B, BLIP-2, Gemini 1.5)
+- Real-time leaderboards and teacher dashboards
+- Instant game preview with integrated student progress tracking
+
+**Tech Stack:** Flask, PyTorch, Next.js 14, TailwindCSS, Phaser 3, Socket.io
+
+---
+
+### Model Context Protocol (MCP) Servers
+
+A collection of specialized MCP servers that extend language model capabilities by connecting them to external data sources and services. Each server implements the Model Context Protocol to support secure, standardized interactions between AI applications and real-world systems.
+
+All servers are published as PyPI modules. [View PyPI profile](https://pypi.org/user/idk_james/)
 
 #### [MokuPDF](https://github.com/jameslovespancakes/mokupdf)
-**Intelligent PDF Processing Server**
+*Intelligent PDF Processing Server*
 
-A powerful server that enables AI tools like Claude Desktop to read and process PDF files with advanced capabilities. Handles both digital and scanned documents through OCR technology while providing intelligent search capabilities.
+A server that allows AI tools such as Claude Desktop to read and process PDF files, supporting both digital and scanned documents through OCR.
 
-**Key Features:**
-- Advanced OCR for scanned documents using Tesseract
-- Intelligent fuzzy search across directories
+**Key Features**
+- Tesseract-based OCR for scanned documents
+- Fuzzy search across local directories
 - Embedded image extraction from PDFs
 - JSON-RPC communication protocol
 
-**Tech Stack:** `Python 3.8+` `Tesseract OCR` `JSON-RPC` `MCP`
+**Tech Stack:** Python 3.8+, Tesseract OCR, JSON-RPC, MCP
 
 #### [Memory-MCP (Hippocampus)](https://github.com/jameslovespancakes/Memory-MCP)
-**Persistent Memory Server for LLMs**
+*Persistent Memory Server for Language Models*
 
-A brain-inspired memory system that enables AI assistants to remember information across conversation sessions through semantic storage and retrieval. Features biological memory processes including consolidation and forgetting mechanisms.
+A memory system modeled on biological processes that enables AI assistants to retain information across conversation sessions through semantic storage and retrieval.
 
-**Key Features:**
+**Key Features**
 - Semantic similarity search using FAISS vector indexing
-- Memory consolidation and forgetting algorithms
-- Privacy-focused local storage with no external API costs
-- Rate limiting and security measures
+- Memory consolidation and decay algorithms
+- Local-first storage with no external API dependency
+- Rate limiting and access controls
 
-**Tech Stack:** `Python 3.9+` `Sentence Transformers` `FAISS` `JSON`
+**Tech Stack:** Python 3.9+, Sentence Transformers, FAISS, JSON
 
 #### [BinanceUS-MCP](https://github.com/jameslovespancakes/BinanceUS-mcp)
-**Cryptocurrency Trading Integration**
+*Cryptocurrency Trading Integration*
 
-Bridges cryptocurrency trading with AI applications through MCP compatibility, enabling AI assistants to interact with the Binance US trading platform for market data and trading operations.
+An MCP-compliant server that connects AI assistants to the Binance US platform for market data retrieval and trading operations.
 
-**Key Features:**
+**Key Features**
 - Real-time market data access
-- Trading operation integration
+- Programmatic trading operations
 - Secure API authentication
 - MCP-compliant architecture
 
-**Tech Stack:** `Python` `Binance US API` `MCP`
+**Tech Stack:** Python, Binance US API, MCP
 
 ---
 
-## 🌟 Open Source Contributions
+## Open Source Contributions
 
 ### TensorFlow
-Contributing to one of the world's most popular machine learning frameworks.
+Contributions to one of the most widely used machine learning frameworks.
 
-**Pull Requests:**
-- [#102674](https://github.com/tensorflow/tensorflow/pull/102674) - Fix TensorFlow Lite build error with Android NDK
-  - Added platform-specific guards to resolve compilation errors on Windows and Android NDK configurations
-
-- [#102663](https://github.com/tensorflow/tensorflow/pull/102663) - Fix TypeError when serializing `tf.nn.log_softmax` activation
-  - Resolved Keras model deserialization issue for `log_softmax` activation functions
+- [#102674](https://github.com/tensorflow/tensorflow/pull/102674) — Fix TensorFlow Lite build error with Android NDK. Added platform-specific guards to resolve compilation errors on Windows and Android NDK configurations.
+- [#102663](https://github.com/tensorflow/tensorflow/pull/102663) — Fix TypeError when serializing `tf.nn.log_softmax` activation. Resolved a Keras model deserialization issue affecting `log_softmax` activation functions.
 
 ### Sanic
-Contributing to the high-performance Python web framework.
+Contributions to the high-performance Python web framework.
 
-**Pull Requests:**
-- [#3086](https://github.com/sanic-org/sanic/pull/3086) - Fix race condition in worker restart causing spawn failure
-  - Resolved critical race condition that prevented workers from restarting properly
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Tools & Technologies:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
-
-**Specializations:**
-- AI/ML Integration & Model Context Protocol (MCP)
-- Full-Stack Web Development
-- Educational Technology
-- PDF Processing & OCR
-- Real-time Applications
+- [#3086](https://github.com/sanic-org/sanic/pull/3086) — Fix race condition in worker restart causing spawn failure. Resolved a race condition that prevented workers from restarting reliably.
+- [#3085](https://github.com/sanic-org/sanic/pull/3085) — Fix AttributeError in `close_if_idle()` when `_http` is not initialized. Corrected a server shutdown crash through safer property access for uninitialized connections.
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<div align="center">
+**Languages:** Python, JavaScript, TypeScript
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameslovespancakes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+**Frameworks and Libraries:** Next.js, Flask, PyTorch, React
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameslovespancakes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+**Tools and Platforms:** Git, Cloudflare, Gemini API
 
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Building AI-powered tools that enhance productivity and education
-- 🌱 Exploring Model Context Protocol (MCP) integrations
-- 💡 Developing full-stack applications with modern frameworks
-- 📚 Pursuing interdisciplinary knowledge in CS & Economics
+**Areas of Focus**
+- AI/ML integration and the Model Context Protocol
+- Full-stack web development
+- Educational technology
+- PDF processing and OCR
+- Real-time applications
 
 ---
 
-## 📫 Let's Connect
+## Current Focus
 
-I'm always interested in collaborating on innovative projects or discussing technology and economics. Feel free to reach out!
-
-- 📧 Email: [jmlenhard@wm.edu](mailto:jmlenhard@wm.edu)
-- 🐙 GitHub: [@jameslovespancakes](https://github.com/jameslovespancakes)
+- Building AI-powered tools for productivity and education
+- Developing Model Context Protocol integrations
+- Designing full-stack applications with modern frameworks
+- Pursuing interdisciplinary work in computer science and economics
 
 ---
 
-<div align="center">
+## Contact
 
-*"Building technology that empowers people to do more."*
+I welcome opportunities to collaborate on technical projects or discuss work at the intersection of technology and economics.
 
-![Profile Views](https://komarev.com/ghpvc/?username=jameslovespancakes&color=blueviolet&style=flat)
-
-</div>
+- Email: [jmlenhard@wm.edu](mailto:jmlenhard@wm.edu)
+- GitHub: [@jameslovespancakes](https://github.com/jameslovespancakes)
