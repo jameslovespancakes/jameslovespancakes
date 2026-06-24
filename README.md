@@ -4,7 +4,7 @@
 
 **Computer Science & Economics, William & Mary Class of 2029**
 
-[GitHub](https://github.com/jameslovespancakes) · [jmlenhard@wm.edu](mailto:jmlenhard@wm.edu)
+[jmlenhard@wm.edu](mailto:jmlenhard@wm.edu)
 
 </div>
 
