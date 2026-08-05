@@ -14,8 +14,8 @@
 ### Projects
 
 [![Learn Iu Mien](https://img.shields.io/badge/learniumien.org-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](https://learniumien.org)
-[![Users](https://img.shields.io/badge/7k_unique_monthly_users-555?style=flat-square)](https://learniumien.org)
-![chrF](https://img.shields.io/badge/chrF_62-555?style=flat-square)
+[![Users](https://img.shields.io/badge/Unique_Monthly_Users-7K-0F766E?style=flat-square&labelColor=24292F)](https://learniumien.org)
+![chrF](https://img.shields.io/badge/chrF-62-555?style=flat-square&labelColor=24292F)
 
 Free translator, dictionary, and 20-level course for **Iu Mien**, a Hmong-Mien language with ~800k speakers.
 
