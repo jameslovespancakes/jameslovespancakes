@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/jmlenhard@wm.edu-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:jmlenhard@wm.edu)
 [![GitHub](https://img.shields.io/badge/jameslovespancakes-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/jameslovespancakes)
 [![PyPI](https://img.shields.io/badge/idk__james-24292F?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/idk_james/)
-[![Downloads](https://img.shields.io/badge/4k+_downloads-006dad?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/idk_james/)
+[![Downloads](https://img.shields.io/badge/5k+_downloads-006dad?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/idk_james/)
 
 </div>
 
@@ -38,6 +38,7 @@ Free translator, dictionary, and 20-level course for **Iu Mien**, a Hmong-Mien l
 | [`mokupdf`](https://github.com/jameslovespancakes/MokuPDF) | [![Downloads](https://img.shields.io/pepy/dt/mokupdf?style=flat-square&color=006dad&label=)](https://pepy.tech/project/mokupdf) | ![Version](https://img.shields.io/pypi/v/mokupdf?style=flat-square&color=555&label=) | PDF reading with OCR for scanned documents |
 | [`hippocampus-memory-mcp`](https://github.com/jameslovespancakes/Memory-MCP) | [![Downloads](https://img.shields.io/pepy/dt/hippocampus-memory-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/hippocampus-memory-mcp) | ![Version](https://img.shields.io/pypi/v/hippocampus-memory-mcp?style=flat-square&color=555&label=) | Persistent memory with FAISS semantic search |
 | [`vectorise-mcp`](https://github.com/jameslovespancakes/Vectorised-Embedding-MCP) | [![Downloads](https://img.shields.io/pepy/dt/vectorise-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/vectorise-mcp) | ![Version](https://img.shields.io/pypi/v/vectorise-mcp?style=flat-square&color=555&label=) | Local vector DB over folders of documents |
+| [`flight-recon-mcp`](https://pypi.org/project/flight-recon-mcp/) | [![Downloads](https://img.shields.io/pepy/dt/flight-recon-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/flight-recon-mcp) | ![Version](https://img.shields.io/pypi/v/flight-recon-mcp?style=flat-square&color=555&label=) | Flight search with layover and emissions scoring |
 
 ### AI Engineering
 
