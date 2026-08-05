@@ -2,132 +2,74 @@
 
 # James Lenhard
 
-**Computer Science & Economics, William & Mary Class of 2029**
+**Computer Science & Economics** · William & Mary '29
 
-[jmlenhard@wm.edu](mailto:jmlenhard@wm.edu)
+[![Email](https://img.shields.io/badge/jmlenhard@wm.edu-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:jmlenhard@wm.edu)
+[![GitHub](https://img.shields.io/badge/jameslovespancakes-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/jameslovespancakes)
+[![PyPI](https://img.shields.io/badge/idk__james-24292F?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/idk_james/)
+[![Downloads](https://img.shields.io/badge/4k+_downloads-006dad?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/idk_james/)
 
 </div>
 
----
+### Projects
 
-## About
+[![Learn Iu Mien](https://img.shields.io/badge/learniumien.org-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](https://learniumien.org)
+[![Users](https://img.shields.io/badge/7k_unique_monthly_users-555?style=flat-square)](https://learniumien.org)
+![chrF](https://img.shields.io/badge/chrF_62-555?style=flat-square)
 
-Product-minded engineer who leads cross-functional teams, roadmaps with stakeholders, and ships user-facing products—while staying hands-on in the codebase when it counts. I am a Computer Science and Economics student at William & Mary with a strong interest in algorithmic trading, machine learning, and quantitative research, and I enjoy working at the intersection of markets and modeling. Beyond quantitative work, I build practical ML and full-stack systems across domains including healthcare diagnostics, educational tooling, and developer infrastructure.
+Free translator, dictionary, and 20-level course for **Iu Mien**, a Hmong-Mien language with ~800k speakers.
 
-## Featured Projects
+### Open Source
 
-### AI and Machine Learning
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)
+[![TensorFlow stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&label=%E2%98%85&color=555)](https://github.com/tensorflow/tensorflow/stargazers)
+[![102674](https://img.shields.io/badge/%23102674-8250DF?style=flat-square)](https://github.com/tensorflow/tensorflow/pull/102674)
+[![102663](https://img.shields.io/badge/%23102663-8250DF?style=flat-square)](https://github.com/tensorflow/tensorflow/pull/102663)
+<br>
+[![Sanic](https://img.shields.io/badge/Sanic-FF0D68?style=flat-square&logo=sanic&logoColor=white)](https://github.com/sanic-org/sanic)
+[![Sanic stars](https://img.shields.io/github/stars/sanic-org/sanic?style=flat-square&label=%E2%98%85&color=555)](https://github.com/sanic-org/sanic/stargazers)
+[![3086](https://img.shields.io/badge/%233086-8250DF?style=flat-square)](https://github.com/sanic-org/sanic/pull/3086)
+[![3085](https://img.shields.io/badge/%233085-8250DF?style=flat-square)](https://github.com/sanic-org/sanic/pull/3085)
 
-#### [DermaAI](https://github.com/jameslovespancakes/technica-2025)
-*AI-Powered Skin Condition Classification — Technica 2025 Hackathon*
+### Published MCP Servers
 
-A full-stack web application that classifies user-submitted images of skin conditions and generates detailed, AI-driven explanations of the results.
+| Package | Downloads | Version | |
+| :--- | :--- | :--- | :--- |
+| [`mokupdf`](https://github.com/jameslovespancakes/MokuPDF) | [![Downloads](https://img.shields.io/pepy/dt/mokupdf?style=flat-square&color=006dad&label=)](https://pepy.tech/project/mokupdf) | ![Version](https://img.shields.io/pypi/v/mokupdf?style=flat-square&color=555&label=) | PDF reading with OCR for scanned documents |
+| [`hippocampus-memory-mcp`](https://github.com/jameslovespancakes/Memory-MCP) | [![Downloads](https://img.shields.io/pepy/dt/hippocampus-memory-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/hippocampus-memory-mcp) | ![Version](https://img.shields.io/pypi/v/hippocampus-memory-mcp?style=flat-square&color=555&label=) | Persistent memory with FAISS semantic search |
+| [`vectorise-mcp`](https://github.com/jameslovespancakes/Vectorised-Embedding-MCP) | [![Downloads](https://img.shields.io/pepy/dt/vectorise-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/vectorise-mcp) | ![Version](https://img.shields.io/pypi/v/vectorise-mcp?style=flat-square&color=555&label=) | Local vector DB over folders of documents |
 
-**Key Features**
-- SwinV2 Tiny transformer model trained on 216 skin condition categories
-- Test-time augmentation for improved accuracy and reliability
-- Automated explanations via the Gemini 2.0 Flash API
-- Interactive follow-up chat with persistent conversation context
+### Stack
 
-**Tech Stack:** Flask, PyTorch, React 18, Vite, TailwindCSS, Three.js, Gemini API
-
----
-
-### Game Development
-
-#### [KAIDO: Way of the Sea](https://github.com/jameslovespancakes/GitHub-Game-Off-2025)
-*2D Narrative Adventure — GitHub Game Off 2025*
-
-A story-driven adventure game following Kaido's journey across treacherous seas to rescue his family from the storm deities, blending sidescrolling action with top-down exploration and Japanese-inspired mythology.
-
-**Key Features**
-- Hybrid gameplay alternating between sidescrolling platformer combat and top-down overworld exploration
-- Boss encounters against twin storm deities in the Celestial Gate arena
-- Sea voyage sequences with obstacle dodging and mythical creature encounters
-- Inventory, hotbar, and shop systems with branching dialogue
-- Day/night cycle that modulates the player's water-based abilities
-- Original soundtrack and hand-crafted pixel art
-
-**Tech Stack:** Godot 4.5, GDScript
-
----
-
-### Model Context Protocol (MCP) Servers
-
-A collection of specialized MCP servers that extend language model capabilities by connecting them to external data sources and services. Each server implements the Model Context Protocol to support secure, standardized interactions between AI applications and real-world systems.
-
-All servers are published as PyPI modules. [View PyPI profile](https://pypi.org/user/idk_james/)
-
-#### [MokuPDF](https://github.com/jameslovespancakes/mokupdf)
-*Intelligent PDF Processing Server*
-
-A server that allows AI tools such as Claude Desktop to read and process PDF files, supporting both digital and scanned documents through OCR.
-
-**Key Features**
-- Tesseract-based OCR for scanned documents
-- Fuzzy search across local directories
-- Embedded image extraction from PDFs
-- JSON-RPC communication protocol
-
-**Tech Stack:** Python 3.8+, Tesseract OCR, JSON-RPC, MCP
-
-#### [Memory-MCP (Hippocampus)](https://github.com/jameslovespancakes/Memory-MCP)
-*Persistent Memory Server for Language Models*
-
-A memory system modeled on biological processes that enables AI assistants to retain information across conversation sessions through semantic storage and retrieval.
-
-**Key Features**
-- Semantic similarity search using FAISS vector indexing
-- Memory consolidation and decay algorithms
-- Local-first storage with no external API dependency
-- Rate limiting and access controls
-
-**Tech Stack:** Python 3.9+, Sentence Transformers, FAISS, JSON
-
-#### [BinanceUS-MCP](https://github.com/jameslovespancakes/BinanceUS-mcp)
-*Cryptocurrency Trading Integration*
-
-An MCP-compliant server that connects AI assistants to the Binance US platform for market data retrieval and trading operations.
-
-**Key Features**
-- Real-time market data access
-- Programmatic trading operations
-- Secure API authentication
-- MCP-compliant architecture
-
-**Tech Stack:** Python, Binance US API, MCP
+![Languages](https://img.shields.io/badge/Languages-555?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br>
+![ML & Data](https://img.shields.io/badge/ML_&_Data-555?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-4A8C2A?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<br>
+![Web](https://img.shields.io/badge/Web-555?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+<br>
+![Infra](https://img.shields.io/badge/Infra-555?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 
 ---
 
-## Open Source Contributions
-
-### TensorFlow
-Contributions to one of the most widely used machine learning frameworks.
-
-- [#102674](https://github.com/tensorflow/tensorflow/pull/102674) — Fix TensorFlow Lite build error with Android NDK. Added platform-specific guards to resolve compilation errors on Windows and Android NDK configurations.
-- [#102663](https://github.com/tensorflow/tensorflow/pull/102663) — Fix TypeError when serializing `tf.nn.log_softmax` activation. Resolved a Keras model deserialization issue affecting `log_softmax` activation functions.
-
-### Sanic
-Contributions to the high-performance Python web framework.
-
-- [#3086](https://github.com/sanic-org/sanic/pull/3086) — Fix race condition in worker restart causing spawn failure. Resolved a race condition that prevented workers from restarting reliably.
-- [#3085](https://github.com/sanic-org/sanic/pull/3085) — Fix AttributeError in `close_if_idle()` when `_http` is not initialized. Corrected a server shutdown crash through safer property access for uninitialized connections.
-
----
-
-## Skills
-
-**Product:** Roadmapping, User Stories, Agile/Scrum, A/B Testing, Problem Solving
-
-**Analytics:** PyTorch, TensorFlow, LightGBM, Pandas, NumPy, Data Analysis, Metrics Definition, Dashboarding
-
-**Technical:** Python, JavaScript, TypeScript, SQL, Docker, Git, GitHub Actions, GCP, AWS, Figma, Excel
-
----
-
-## Contact
-
-I welcome opportunities to collaborate on technical projects or discuss work at the intersection of technology and economics.
-
-- Email: [jmlenhard@wm.edu](mailto:jmlenhard@wm.edu)
-- GitHub: [@jameslovespancakes](https://github.com/jameslovespancakes)
+<div align="center">
+<sub>Interested in building things people want.</sub>
+</div>
