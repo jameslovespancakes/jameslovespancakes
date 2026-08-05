@@ -13,7 +13,7 @@
 
 ### Projects
 
-[![Learn Iu Mien](https://img.shields.io/badge/learniumien.org-0F766E?style=flat-square&logo=googlechrome&logoColor=white)](https://learniumien.org)
+[![Learn Iu Mien](https://img.shields.io/badge/learniumien.org-0F766E?style=flat-square&logo=googleearth&logoColor=white)](https://learniumien.org)
 [![Users](https://img.shields.io/badge/Unique_Monthly_Users-7K-0F766E?style=flat-square&labelColor=24292F)](https://learniumien.org)
 ![chrF](https://img.shields.io/badge/chrF-62-555?style=flat-square&labelColor=24292F)
 
@@ -22,12 +22,12 @@ Free translator, dictionary, and 20-level course for **Iu Mien**, a Hmong-Mien l
 ### Open Source
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)
-[![TensorFlow stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&label=%E2%98%85&color=555)](https://github.com/tensorflow/tensorflow/stargazers)
+[![TensorFlow stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&label=&color=24292F&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGQzgzMyIgZD0iTTEyIDJsMi45IDYuNiA3LjEuNi01LjQgNC43IDEuNiA3TDEyIDE3LjMgNi44IDIwLjlsMS42LTdMMyA5LjJsNy4xLS42eiIvPjwvc3ZnPg%3D%3D)](https://github.com/tensorflow/tensorflow/stargazers)
 [![102674](https://img.shields.io/badge/%23102674-8250DF?style=flat-square)](https://github.com/tensorflow/tensorflow/pull/102674)
 [![102663](https://img.shields.io/badge/%23102663-8250DF?style=flat-square)](https://github.com/tensorflow/tensorflow/pull/102663)
 <br>
 [![Sanic](https://img.shields.io/badge/Sanic-FF0D68?style=flat-square&logo=sanic&logoColor=white)](https://github.com/sanic-org/sanic)
-[![Sanic stars](https://img.shields.io/github/stars/sanic-org/sanic?style=flat-square&label=%E2%98%85&color=555)](https://github.com/sanic-org/sanic/stargazers)
+[![Sanic stars](https://img.shields.io/github/stars/sanic-org/sanic?style=flat-square&label=&color=24292F&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGQzgzMyIgZD0iTTEyIDJsMi45IDYuNiA3LjEuNi01LjQgNC43IDEuNiA3TDEyIDE3LjMgNi44IDIwLjlsMS42LTdMMyA5LjJsNy4xLS42eiIvPjwvc3ZnPg%3D%3D)](https://github.com/sanic-org/sanic/stargazers)
 [![3086](https://img.shields.io/badge/%233086-8250DF?style=flat-square)](https://github.com/sanic-org/sanic/pull/3086)
 [![3085](https://img.shields.io/badge/%233085-8250DF?style=flat-square)](https://github.com/sanic-org/sanic/pull/3085)
 
