@@ -35,10 +35,10 @@ Free translator, dictionary, and 20-level course for **Iu Mien**, a Hmong-Mien l
 
 | Package | Downloads | Version | |
 | :--- | :--- | :--- | :--- |
-| [`mokupdf`](https://github.com/jameslovespancakes/MokuPDF) | [![Downloads](https://img.shields.io/pepy/dt/mokupdf?style=flat-square&color=006dad&label=)](https://pepy.tech/project/mokupdf) | ![Version](https://img.shields.io/pypi/v/mokupdf?style=flat-square&color=555&label=) | PDF reading with OCR for scanned documents |
-| [`hippocampus-memory-mcp`](https://github.com/jameslovespancakes/Memory-MCP) | [![Downloads](https://img.shields.io/pepy/dt/hippocampus-memory-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/hippocampus-memory-mcp) | ![Version](https://img.shields.io/pypi/v/hippocampus-memory-mcp?style=flat-square&color=555&label=) | Persistent memory with FAISS semantic search |
-| [`vectorise-mcp`](https://github.com/jameslovespancakes/Vectorised-Embedding-MCP) | [![Downloads](https://img.shields.io/pepy/dt/vectorise-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/vectorise-mcp) | ![Version](https://img.shields.io/pypi/v/vectorise-mcp?style=flat-square&color=555&label=) | Local vector DB over folders of documents |
-| [`flight-recon-mcp`](https://pypi.org/project/flight-recon-mcp/) | [![Downloads](https://img.shields.io/pepy/dt/flight-recon-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/flight-recon-mcp) | ![Version](https://img.shields.io/pypi/v/flight-recon-mcp?style=flat-square&color=555&label=) | Flight search with layover and emissions scoring |
+| `mokupdf` | [![Downloads](https://img.shields.io/pepy/dt/mokupdf?style=flat-square&color=006dad&label=)](https://pepy.tech/project/mokupdf) | ![Version](https://img.shields.io/pypi/v/mokupdf?style=flat-square&color=555&label=) | PDF reading with OCR for scanned documents |
+| `hippocampus-memory-mcp` | [![Downloads](https://img.shields.io/pepy/dt/hippocampus-memory-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/hippocampus-memory-mcp) | ![Version](https://img.shields.io/pypi/v/hippocampus-memory-mcp?style=flat-square&color=555&label=) | Persistent memory with FAISS semantic search |
+| `vectorise-mcp` | [![Downloads](https://img.shields.io/pepy/dt/vectorise-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/vectorise-mcp) | ![Version](https://img.shields.io/pypi/v/vectorise-mcp?style=flat-square&color=555&label=) | Local vector DB over folders of documents |
+| `flight-recon-mcp` | [![Downloads](https://img.shields.io/pepy/dt/flight-recon-mcp?style=flat-square&color=006dad&label=)](https://pepy.tech/project/flight-recon-mcp) | ![Version](https://img.shields.io/pypi/v/flight-recon-mcp?style=flat-square&color=555&label=) | Flight search with layover and emissions scoring |
 
 ### AI Engineering
 
