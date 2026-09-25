@@ -6,8 +6,7 @@
 
 [![Email](https://img.shields.io/badge/jmlenhard@wm.edu-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:jmlenhard@wm.edu)
 [![GitHub](https://img.shields.io/badge/jameslovespancakes-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/jameslovespancakes)
-[![PyPI](https://img.shields.io/badge/idk__james-24292F?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/idk_james/)
-[![Downloads](https://img.shields.io/badge/5k+_downloads-006dad?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/idk_james/)
+
 
 </div>
 
